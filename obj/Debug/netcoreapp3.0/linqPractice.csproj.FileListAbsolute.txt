@@ -1,0 +1,11 @@
+/Users/bobbybrady/workspace/csharp/linqPractice/bin/Debug/netcoreapp3.0/linqPractice
+/Users/bobbybrady/workspace/csharp/linqPractice/bin/Debug/netcoreapp3.0/linqPractice.deps.json
+/Users/bobbybrady/workspace/csharp/linqPractice/bin/Debug/netcoreapp3.0/linqPractice.runtimeconfig.json
+/Users/bobbybrady/workspace/csharp/linqPractice/bin/Debug/netcoreapp3.0/linqPractice.runtimeconfig.dev.json
+/Users/bobbybrady/workspace/csharp/linqPractice/bin/Debug/netcoreapp3.0/linqPractice.dll
+/Users/bobbybrady/workspace/csharp/linqPractice/bin/Debug/netcoreapp3.0/linqPractice.pdb
+/Users/bobbybrady/workspace/csharp/linqPractice/obj/Debug/netcoreapp3.0/linqPractice.csprojAssemblyReference.cache
+/Users/bobbybrady/workspace/csharp/linqPractice/obj/Debug/netcoreapp3.0/linqPractice.AssemblyInfoInputs.cache
+/Users/bobbybrady/workspace/csharp/linqPractice/obj/Debug/netcoreapp3.0/linqPractice.AssemblyInfo.cs
+/Users/bobbybrady/workspace/csharp/linqPractice/obj/Debug/netcoreapp3.0/linqPractice.dll
+/Users/bobbybrady/workspace/csharp/linqPractice/obj/Debug/netcoreapp3.0/linqPractice.pdb
